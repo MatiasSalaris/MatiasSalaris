@@ -1,9 +1,51 @@
-- 👋 Hi, I’m @MatiasSalaris
+Certainly! Here's a template for your README file based on the information you provided:
 
-<!---
-Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua.
- Ut enim ad minim veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur.
- Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
- Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+```markdown
+# Matias Salaris - Master's Student in Computer Science
 
---->
+Welcome to my GitHub profile! 👋
+
+I am Matias Salaris, a passionate computer science master's student currently pursuing my thesis in the field of Machine Learning, with a focus on Natural Language Processing (NLP) and image analysis techniques. I am currently enrolled at the University of Milan, and I am taking a semester abroad in Copenhagen, exploring new perspectives in the world of computer science.
+
+## About Me
+
+- 🎓 **Education:** Master's in Computer Science, University of Milan
+- 🌍 **Current Location:** Copenhagen (1 Semester Abroad)
+
+## Research Interests
+
+I am deeply interested in the following areas:
+
+- **Natural Language Processing (NLP):** Exploring the power of language in machine learning applications.
+- **Image Analysis:** Leveraging machine learning techniques to extract meaningful insights from images.
+
+## Projects
+
+Here are some of the projects I've been working on:
+
+1. **Project Name 1**
+   - Brief description of the project.
+   - Technologies used.
+   - Link to the project repository.
+
+2. **Project Name 2**
+   - Brief description of the project.
+   - Technologies used.
+   - Link to the project repository.
+
+3. **Project Name 3**
+   - Brief description of the project.
+   - Technologies used.
+   - Link to the project repository.
+
+Feel free to explore these projects and provide any feedback or suggestions. I'm always open to collaboration and learning new things!
+
+## Contact
+
+- **LinkedIn:** [Matias Salaris on LinkedIn](www.linkedin.com/in/matias-salaris-62352815a)
+
+
+I'm looking forward to connecting with fellow developers, researchers, and anyone passionate about the exciting world of machine learning and computer science. Let's build something amazing together! 🚀
+```
+
+Feel free to customize the content as needed, add more details about specific projects, and include any additional information you find relevant.
