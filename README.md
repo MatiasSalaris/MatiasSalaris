@@ -1,6 +1,3 @@
-Certainly! Here's a template for your README file based on the information you provided:
-
-```markdown
 # Matias Salaris - Master's Student in Computer Science
 
 Welcome to my GitHub profile! 👋
@@ -45,7 +42,5 @@ Feel free to explore these projects and provide any feedback or suggestions. I'm
 - **LinkedIn:** [Matias Salaris on LinkedIn](www.linkedin.com/in/matias-salaris-62352815a)
 
 
-I'm looking forward to connecting with fellow developers, researchers, and anyone passionate about the exciting world of machine learning and computer science. Let's build something amazing together! 🚀
-```
+I'm looking forward to connecting with fellow developers, researchers, and anyone passionate about the exciting world of machine learning and computer science. 🚀
 
-Feel free to customize the content as needed, add more details about specific projects, and include any additional information you find relevant.
