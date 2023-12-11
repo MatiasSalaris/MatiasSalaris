@@ -39,7 +39,7 @@ Feel free to explore these projects and provide any feedback or suggestions. I'm
 
 ## Contact
 
-- **LinkedIn:** [Matias Salaris on LinkedIn](www.linkedin.com/in/matias-salaris-62352815a)
+[![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matias-salaris-62352815a)
 
 
 I'm looking forward to connecting with fellow developers, researchers, and anyone passionate about the exciting world of machine learning and computer science. 🚀
