@@ -20,20 +20,22 @@ I am deeply interested in the following areas:
 
 Here are some of the projects I've been working on:
 
-1. **Project Name 1**
-   - Brief description of the project.
-   - Technologies used.
-   - Link to the project repository.
+1. **Replication of [Generalization without systematicity](https://arxiv.org/abs/1711.00350) paper**
+   - Replicated the implementation of Seq2Seq networks used in the paper and obtained similar results.
+   - Python, Pytorch, Encoder-decoder networks (LSTMs and GRUs).
+   - [Git Repo](https://github.com/Yannick-Neubert/ATNLProject/tree/main).
 
-2. **Project Name 2**
-   - Brief description of the project.
-   - Technologies used.
-   - Link to the project repository.
+2. **Predictor for Money Laundering Transactions**
+   - Developed a model able to predict money laundering transaction with a good accuracy.
+   - Python, Sklear.
+   - [Git Repo](https://github.com/MatiasSalaris/AMD-SM2L-2022-23-project/tree/main).
 
-3. **Project Name 3**
-   - Brief description of the project.
-   - Technologies used.
-   - Link to the project repository.
+3. **Question Answering System for Arabic / Bengali / Indonesian*
+   - Developed a Language model for each of the languages.
+   - Developed a Question answering binary system (both through fine Tuning Bert models and by using TF-IDF to feed a SVM).
+   - Developed a system that detect the span of the text in the document that actually contains the answer (using Attention mechanism).
+   - Python, PyTorch, Pandas, NumPy.
+   - [Git Repo](https://github.com/TokeReines/08_NLP/tree/main/examn).
 
 Feel free to explore these projects and provide any feedback or suggestions. I'm always open to collaboration and learning new things!
 
