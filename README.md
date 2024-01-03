@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! 👋
 
-I am Matias Salaris, a passionate computer science master's student currently searching for a thesis in the field of Machine Learning, with a focus on Natural Language Processing (NLP) and image analysis techniques. I am currently enrolled at the University of Milan, and I am taking a semester abroad in Copenhagen, exploring new perspectives in the world of computer science.
+I am Matias Salaris, a passionate computer science master's student, currently searching for a Software Engineer/Data Science job and for a thesis in the field of Machine Learning, with a focus on Natural Language Processing (NLP) and image analysis techniques. I am currently enrolled at the University of Milan, and I am taking a semester abroad in Copenhagen, exploring new perspectives in the world of computer science.
 
 ## About Me
 
