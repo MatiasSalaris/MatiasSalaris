@@ -20,15 +20,15 @@ I am deeply interested in the following areas:
 
 Here are some of the projects I've been working on:
 
-1. **Replication of [Generalization without systematicity](https://arxiv.org/abs/1711.00350) paper**
-   - Replicated the implementation of Seq2Seq networks used in the paper and obtained similar results.
-   - Python, Pytorch, Encoder-decoder networks (LSTMs and GRUs).
-   - [Git Repo](https://github.com/Yannick-Neubert/ATNLProject/tree/main).
-
-2. **Predictor for Money Laundering Transactions**
+1. **Predictor for Money Laundering Transactions**
    - Developed a model able to predict money laundering transaction with a good accuracy.
    - Python, Sklear.
    - [Git Repo](https://github.com/MatiasSalaris/AMD-SM2L-2022-23-project/tree/main).
+
+2. **Replication of [Generalization without systematicity](https://arxiv.org/abs/1711.00350) paper**
+   - Replicated the implementation of Seq2Seq networks used in the paper and obtained similar results.
+   - Python, Pytorch, Encoder-decoder networks (LSTMs and GRUs).
+   - [Git Repo](https://github.com/MatiasSalaris/SCAN_Replication/tree/main)
 
 3. **Question Answering System for Arabic / Bengali / Indonesian*
    - Developed a Language model for each of the languages.
