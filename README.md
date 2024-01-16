@@ -22,7 +22,7 @@ Here are some of the projects I've been working on:
 
 1. **Predictor for Money Laundering Transactions**
    - Developed a model able to predict money laundering transaction with a good accuracy.
-   - Python, Sklear.
+   - Python, Sklearn.
    - [Git Repo](https://github.com/MatiasSalaris/AMD-SM2L-2022-23-project/tree/main).
 
 2. **Replication of [Generalization without systematicity](https://arxiv.org/abs/1711.00350) paper**
