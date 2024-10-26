@@ -21,6 +21,7 @@ I am deeply interested in the following areas:
 ## Projects
 
 **Current project**
+
 I am working on my master’s thesis, which focuses on building a system to track and analyze the evolution of news articles across digital media platforms. This project is composed of two main modules:
 
 Source Attribution and Propagation Tracking: Identifying the original sources of news articles and mapping how they spread across platforms.
