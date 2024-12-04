@@ -50,7 +50,7 @@ Feel free to explore these projects and provide any feedback or suggestions. I'm
 
 **EXTRA:**
 
-🎸 I play (or maybe used to play) guitar in a rock / metal band with influences from other artists like "The story so far", "Red Hot Chilli Peppers" or "Bring me the Horizon"
+🎸 I play guitar in a rock/metal band that blends influences from artists like The Story So Far, Red Hot Chili Peppers, and Bring Me the Horizon. Making music is one of my greatest joys, and being part of the creative process—whether it’s writing riffs, jamming with the band, or performing live—is something that makes me happy and relaxed.
 
 ## Contact
 
