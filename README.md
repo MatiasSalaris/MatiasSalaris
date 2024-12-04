@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! 👋
 
-I am Matias Salaris, a master's student specializing in Natural Language Processing (NLP), with a deep commitment to advancing language-based AI applications. I am actively pursuing job and research opportunities in NLP, with an emphasis on roles that blend software engineering, machine learning, and data science. Currently, I am completing my Master’s degree at the University of Milan, where my research is dedicated to NLP applications in media analytics.
+I am Matias Salaris, a master's student specialized in Natural Language Processing (NLP), with a deep commitment to advancing language-based AI applications. I have 1 year of work experience in the field, but I am still actively pursuing job and research opportunities in NLP, with an emphasis on roles that blend software engineering, machine learning, and data science. Currently, I am completing my Master’s degree at the University of Milan, where my research is dedicated to NLP applications in media analytics.
 
 ## About Me
 
