@@ -47,6 +47,11 @@ Narrative Evolution Analysis: Examining shifts in narrative, tone, factual empha
 
 Feel free to explore these projects and provide any feedback or suggestions. I'm always open to collaboration and learning new things!
 
+
+EXTRA:
+
+I play (or maybe used to play) guitar in a rock / metal band with influences from other artists like "The story so far", "Red Hot Chilli Peppers" or "Bring me the Horizon"
+
 ## Contact
 
 [![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matias-salaris-62352815a)
