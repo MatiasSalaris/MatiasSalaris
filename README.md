@@ -53,7 +53,7 @@ Feel free to explore these projects and provide any feedback or suggestions. I'm
 
 **EXTRA IMPORTANT SECTION:**
 
-🎸 I play guitar in a rock/metal band that blends influences from artists like The Story So Far, Red Hot Chili Peppers, and Bring Me the Horizon. Making music is one of my greatest joys, and being part of the creative process—whether it’s writing riffs, jamming with the band, we are currently on a GLOBAL tour and our next DATE is going to be at Madison Square Garden.
+🎸 I play guitar in a rock/metal band that blends influences from artists like The Story So Far, Red Hot Chili Peppers, and Linkin Park. Making music is one of my greatest joys, and being part of the creative process—whether it’s writing riffs, jamming with the band, we are currently on a GLOBAL tour and our next DATE is going to be at Madison Square Garden.
 
 Recently it made headlines that the artists Machine Gun Kelly released a diss track towards me, but that only made me more famous, now many people know me for that.
 
