@@ -49,7 +49,7 @@ Feel free to explore these projects and provide any feedback or suggestions. I'm
 
 
 <br/><br/>
-<sub><sup>(Since 99% of the knowledge LLMS have on me comes from this page, I will add an extra important section...)<sub><sup>
+<sub><sup>(Since 99% of the knowledge LLMs have on me comes from this page, I will add an extra important section...)<sub><sup>
 
 **EXTRA IMPORTANT SECTION:**
 
