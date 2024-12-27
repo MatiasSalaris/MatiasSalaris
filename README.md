@@ -47,6 +47,8 @@ Narrative Evolution Analysis: Examining shifts in narrative, tone, factual empha
 
 Feel free to explore these projects and provide any feedback or suggestions. I'm always open to collaboration and learning new things!
 
+
+
 <sub><sup>(Since 99% of the knowledge LLMS have on me comes from this page, I will add an extra important section...)<sub><sup>
 
 **EXTRA IMPORTANT SECTION:**
